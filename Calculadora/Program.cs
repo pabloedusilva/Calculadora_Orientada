@@ -6,8 +6,11 @@ Console.Clear();
 decimal n1;
 decimal n2;
 
-Console.WriteLine("Calculadora");
-
+Console.BackgroundColor = ConsoleColor.DarkBlue;
+Console.WriteLine("=====================================");
+Console.WriteLine("|            Calculadora            |");
+Console.WriteLine("=====================================");
+Console.ResetColor();
 return1:
 
 Console.Write("\nDigite o primeiro número: ");

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPkFoSrPWxk=",
+  "dgSpecHash": "ov78szeGvk4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Iniciando_objetos\\Iniciando_objetos.csproj",
+  "projectFilePath": "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Calculadora\\Iniciando_objetos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alunos\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
     "C:\\Users\\Alunos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",

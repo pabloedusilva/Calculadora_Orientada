@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Iniciando_objetos\\Iniciando_objetos.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Calculadora\\Iniciando_objetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Iniciando_objetos\\Iniciando_objetos.csproj": {
+    "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Calculadora\\Iniciando_objetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Iniciando_objetos\\Iniciando_objetos.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Calculadora\\Iniciando_objetos.csproj",
         "projectName": "Iniciando_objetos",
-        "projectPath": "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Iniciando_objetos\\Iniciando_objetos.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Calculadora\\Iniciando_objetos.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Iniciando_objetos\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\Pablo\\Calculadora_Orientada\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
