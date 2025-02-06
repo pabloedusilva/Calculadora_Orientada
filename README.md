@@ -32,7 +32,8 @@ O código está organizado em três arquivos principais:
 
 ## 📌 Exemplo de Execução
 
-![image](https://github.com/user-attachments/assets/c77c1a89-12c8-4f47-b25b-7771fd9e78ab)
+![image](https://github.com/user-attachments/assets/e38abecc-3d30-4f0a-951f-f5e45b18415f)
+
 
 
 ## ✔️ Validação de Entrada
